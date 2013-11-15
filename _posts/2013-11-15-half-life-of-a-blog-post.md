@@ -33,7 +33,7 @@ First of all, the easiest way to get the Pageviews information is via this [Goog
 	</div>
 </div></p>
 
-Grab a reasonable sample size of pagviews, and throw it into Excel. Then chart that simply as a line.
+Grab a reasonable sample size of pageviews, and throw it into Excel. Then chart that simply as a line.
 
 [This guide](http://www.lepla.org/en/modules/Activities/m22/m22-evaxl.htm) then explains a simple way to use trend lines to calculate half-life in Excel. That essentially nets out to: add in an exponential trend line, access trend line options and display the equation, then perform the reduction.
 
