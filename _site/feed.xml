@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Angry Marketing</title>
+		<description></description>
+		<link>mehzer.github.io</link>
+		<atom:link href="mehzer.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Half-Life of a Blog Post</title>
+				<description>&lt;p class=&quot;lead&quot;&gt;How long does a blog post retain its impact? Here I look at some blog posts from the HWX site and then figure out the half-life of a piece of content to feed into content planning.&lt;/p&gt;
+
+&lt;p&gt;I spend a lot of time planning and executing on an editorial calendar aligned to our overall corporate and product narratives. While you can&amp;#39;t predict the impact of an individual post, it would be useful to know how long it would remain fresh for. Social distribution doesn&amp;#39;t remain live for very long and should be subject to best timings and recycling efforts (and of course a lot of tech tries to solve that problem automagically) but I was curious on the &lt;a href=&quot;http://en.wikipedia.org/wiki/Half-life&quot;&gt;half-life&lt;/a&gt; of the original material. Original material is typically a blog post related to some story arc we have in-market. Understanding it&amp;#39;s half-life helps plan the best rhythm and volume for content production.&lt;/p&gt;
+
+&lt;p&gt;For this quick calculation, I looked at 5 &amp;#39;business&amp;#39; focused posts (versus the more technical content). An example post is &lt;a href=&quot;http://hortonworks.com/blog/hadoops-part-in-a-modern-data-architecture/&quot;&gt;something like this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;alert alert-info&quot;&gt;I found that the range of a blog post half life was between 4.8 and 6.4 days, suggesting the need for fresh content approximately once per week.&lt;/div&gt;
+
+&lt;p&gt;This may hint that a more rapid rhythm than that would signal to readers a specific &amp;#39;push&amp;#39; on a given topic. I&amp;#39;ll take a look at that some other time.&lt;/p&gt;
+
+&lt;h2&gt;Calculating Half-Life&lt;/h2&gt;
+
+&lt;p&gt;Running your own calculation is fairly simple. This particular chart shows a single post with a half-life of 5.9 days. The others looked pretty much the same. You can see a small bump around Day 20 when the post was recycled through social distribution. &lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+        &lt;img src=&quot;/images/content-half-life.png&quot; class=&quot;img-responsive&quot;/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;First of all, the easiest way to get the Pageviews information is via this &lt;a href=&quot;http://ga-dev-tools.appspot.com/explorer/&quot;&gt;Google Analytics Query Explorer&lt;/a&gt;. This can be set with query terms as follows to return a list of daily pageviews. &lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-md-8 col-md-offset-2&quot;&gt;
+&lt;img src=&quot;/images/query-explorer-settings.png&quot; class=&quot;img-responsive&quot;/&gt;
+    &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;Grab a reasonable sample size of pagviews, and throw it into Excel. Then chart that simply as a line.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.lepla.org/en/modules/Activities/m22/m22-evaxl.htm&quot;&gt;This guide&lt;/a&gt; then explains a simple way to use trend lines to calculate half-life in Excel. That essentially nets out to: add in an exponential trend line, access trend line options and display the equation, then perform the reduction.&lt;/p&gt;
+</description>
+				<pubDate>Fri, 15 Nov 2013 00:00:00 -0800</pubDate>
+				<link>mehzer.github.io/post/half-life-of-a-blog-post</link>
+				<guid isPermaLink="true">mehzer.github.io/post/half-life-of-a-blog-post</guid>
+			</item>
+		
+			<item>
+				<title>Content Marketing: It's a Call to Adventure!</title>
+				<description>&lt;div class=&quot;row text-center&quot;&gt;
+&lt;img src=&quot;https://i.chzbgr.com/maxW500/6943588864/h2B52BDDC/&quot;/&gt;
+&lt;p&gt;&lt;small&gt;(&lt;a href=&quot;http://cheezburger.com/6943588864&quot;&gt;Image from FailBlog&lt;/a&gt;)&lt;/small&gt;&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;lead&quot;&gt;Words Matter. &lt;a href=&quot;http://www.amazon.com/Microstyle-The-Writing-Little-ebook&quot;&gt;They really do&lt;/a&gt;. As an Englishman in the US, I&#39;m constantly aware that I&#39;m probably being misrepresented by own vocabulary in most business, and probably social, engagements. I keep a &lt;a href=&quot;http://bridgesandtangents.files.wordpress.com/2012/02/english1.jpg&quot;&gt;useful guide&lt;/a&gt; in my notebook just in case.&lt;/p&gt;
+
+&lt;p&gt;A phrase I find disappointing (see above) is &lt;a href=&quot;http://en.wikipedia.org/wiki/Call_to_Action&quot;&gt;&amp;#39;Call to Action&amp;#39;&lt;/a&gt;. &amp;#39;What&amp;#39;s the call to action?&amp;#39;. Never has a duller phrase revealed so truthfully the anodyne nature of most marketing efforts. It&amp;#39;s not that you don&amp;#39;t need one, it&amp;#39;s just that you need more.&lt;/p&gt;
+
+&lt;p&gt;In the world of content marketing, or the storytelling of the purpose of a brand through social engagement, or whatever you want to call whatever it is you do all day, then a simple call to action isn&amp;#39;t up to scratch. It&amp;#39;s a &lt;a href=&quot;http://en.wikipedia.org/wiki/Monomyth#The_Call_to_Adventure&quot;&gt;Call to Adventure&lt;/a&gt; (which is handy as you can still call it CTA and keep your briefs and spreadsheets intact).&lt;/p&gt;
+
+&lt;p&gt;A Call to Adventure is not about getting a momentary click from a mildly hypnotized responder. It&amp;#39;s that moment in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Monomyth&quot;&gt;monomyth&lt;/a&gt;: &amp;quot;take my hand&amp;quot;, &amp;quot;come with me if you want to live&amp;quot;, something about heading to Mos Eisley, or dragging a ring to Mt. Doom. It is not a single, nor a solitary, event. It&amp;#39;s the beginning of, or the continued deepening of, the belief between the customer and your value proposition - this is a journey we shall start and end together.&lt;/p&gt;
+
+&lt;p&gt;But we don&amp;#39;t think like that very often because we&amp;#39;re building something to be clicked-thru, or downloaded.&lt;/p&gt;
+
+&lt;p&gt;Inspire yourself about that adventure and in so doing inspire your customers. Call them to adventure and take an amazing journey together. &lt;/p&gt;
+</description>
+				<pubDate>Wed, 13 Nov 2013 00:00:00 -0800</pubDate>
+				<link>mehzer.github.io/post/content-marketing-its-a-call-to-adventure</link>
+				<guid isPermaLink="true">mehzer.github.io/post/content-marketing-its-a-call-to-adventure</guid>
+			</item>
+		
+			<item>
+				<title>Back in Business</title>
+				<description>&lt;p class=&quot;lead&quot;&gt;It has been way too long since I blogged for myself. I probably don&#39;t have anything more interesting to say than usual. But anyway, I&#39;m back in business and [blogging like a hacker][bloghacker].&lt;/p&gt;
+</description>
+				<pubDate>Tue, 12 Nov 2013 00:00:00 -0800</pubDate>
+				<link>mehzer.github.io/post/back-in-business</link>
+				<guid isPermaLink="true">mehzer.github.io/post/back-in-business</guid>
+			</item>
+		
+	</channel>
+</rss>

@@ -1,0 +1,9 @@
+name: "Angry Marketing"
+description: ""
+
+url: "mehzer.github.io"
+permalink: post/:title
+
+paginate: 10
+markdown: redcarpet
+pygments: true
